@@ -51,10 +51,10 @@
           EJS_gameName = "i-forgot";
           EJS_color = "#0064ff";
           EJS_startOnLoaded = true;
-          EJS_pathtodata = "https://burritoedition.github.io/emu/data1/";
+          EJS_pathtodata = "https://cdn.jsdelivr.net/gh/bubbls/brogoofyahhmangogotonablacklistskullwiltingrose@main/";
           EJS_gameUrl = "https://file.burritoedition.workers.dev/Mario_Kart_DS_(USA)_(En,Fr,De,Es,It).zip";
           const script = document.createElement("script");
-          script.src = "https://burritoedition.github.io/emu/data1/loader.js";
+          script.src = "https://cdn.jsdelivr.net/gh/bubbls/brogoofyahhmangogotonablacklistskullwiltingrose@main/loader.js";
           document.body.appendChild(script);
     </script>
   </body> 
